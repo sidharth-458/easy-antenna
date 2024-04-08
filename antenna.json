@@ -1,0 +1,10 @@
+{
+  "name"                :"my_antenna",
+  "isDirectional"       :true,
+  "isBalanced"          :false,
+  "reflectorCompulsory" :false,
+  "polarization"        :"horizontal",
+  "beamwidthInDeg"      :20,
+  "dBi"                 :11,
+  "comments"            :"additional information"
+}
